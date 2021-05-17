@@ -29,4 +29,11 @@ Social skills trainer
 # Conferences and webinars
 
 04.2021 reQuest Conference online
+
 09.2020-12.2020 Software tester course (116 h)
+
+# Recommended web and blogs
+* https://www.guru99.com/
+* https://www.w3schools.com/
+* https://testerzy.pl/
+* https://pwicherski.gitbook.io/testowanie-oprogramowania/
