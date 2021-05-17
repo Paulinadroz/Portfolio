@@ -12,6 +12,7 @@ Now I want develop testing skills in IT projects. It's a fascinating discipline 
 
 # Certifikate
 ISTQB Foundation level
+
 Social skills trainer
 
 # Tech skills
