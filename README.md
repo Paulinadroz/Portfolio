@@ -26,3 +26,7 @@ Social skills trainer
 * team player
 * empathy and overview from the perspective of different roles 
 
+# Conferences and webinars
+
+04.2021 reQuest Conference online
+09.2020-12.2020 Software tester course (116 h)
